@@ -1,0 +1,21 @@
+Source,View,Domain,Task,Learners,Pool,Test,d,Density,Outcome mean,Outcome SD
+ASSISTments 2009,assist09,middle-school mathematics,future performance,1159,556,371,20/50/100,0.21–0.47,0.6252,0.2127
+ASSISTments 2015,assist15,middle-school mathematics,future performance,4430,2544,1000,20/50/100,0.12–0.22,0.738,0.1558
+ASSISTments 2017,assist17,middle-school mathematics,future performance,1670,802,534,20/50/100,0.37–0.53,0.4085,0.137
+EdNet-KT1 (20k sample),ednet,English (TOEIC) practice,future performance,3630,1904,1000,20/50/100,0.58–0.75,0.6479,0.1231
+OULAD,oulad_BBB,distance higher education,early warning,6291,4033,1000,32,1.00,0.4112,0.4921
+OULAD,oulad_CCC,distance higher education,early warning,3418,1734,1000,32,1.00,0.5176,0.4997
+OULAD,oulad_DDD,distance higher education,early warning,4996,2997,1000,32,1.00,0.4924,0.4999
+OULAD,oulad_EEE,distance higher education,early warning,2508,1204,802,32,1.00,0.3473,0.4761
+OULAD,oulad_FFF,distance higher education,early warning,6343,4074,1000,32,1.00,0.4354,0.4958
+OULAD,oulad_GGG,distance higher education,early warning,2432,1168,778,32,1.00,0.3791,0.4852
+PTADisc cross-course,pta_x_c,university programming,cross-course transfer,29454,25454,1000,20/50/100,0.44–0.67,0.7338,0.1549
+PTADisc cross-course,pta_x_cpp,university programming,cross-course transfer,29454,25454,1000,20/50/100,0.47–0.78,0.7281,0.1811
+PTADisc cross-course,pta_x_ds,university programming,cross-course transfer,29454,25454,1000,20/50/100,0.47–0.82,0.7575,0.1792
+PTADisc cross-course,pta_x_java,university programming,cross-course transfer,29454,25454,1000,20/50/100,0.52–0.82,0.754,0.1928
+PTADisc cross-course,pta_x_python,university programming,cross-course transfer,29454,25454,1000,20/50/100,0.53–0.82,0.7497,0.1977
+PTADisc single-course,pta_comp_thinking,computational thinking,unseen skills,19923,15923,1000,20/50/100,0.26–0.50,0.754,0.1842
+PTADisc single-course,pta_database,database technology,unseen skills,7784,5227,1000,20/50/100,0.16–0.44,0.7604,0.1694
+PTADisc single-course,pta_linux,Linux systems,unseen skills,1279,614,409,20/50,0.30–0.48,0.6678,0.1875
+Slepemapy geography,slepemapy,geography facts,future performance,31199,27199,1000,20/50/100,0.27–0.38,0.7757,0.155
+XES3G5M,xes3g5m,primary mathematics,future performance,18066,14066,1000,20/50/100,0.52–0.76,0.7986,0.1406

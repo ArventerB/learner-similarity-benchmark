@@ -1,0 +1,18 @@
+{
+ "name": "slepemapy__d50",
+ "source": "Slepemapy geography",
+ "view": "slepemapy",
+ "d": 50,
+ "task": "future",
+ "domain": "geography facts",
+ "target": "success rate on the last 30 % of the learner's interactions",
+ "n_learners": 31199,
+ "n_ref": 3000,
+ "n_test": 1000,
+ "n_pool": 27199,
+ "feature_density": 0.3343,
+ "y_mean": 0.7757,
+ "y_sd": 0.155,
+ "n_interactions": 8590679,
+ "n_kc": 1458
+}

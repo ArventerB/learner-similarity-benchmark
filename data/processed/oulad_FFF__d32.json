@@ -1,0 +1,17 @@
+{
+ "name": "oulad_FFF__d32",
+ "source": "OULAD",
+ "view": "oulad_FFF",
+ "d": 32,
+ "task": "warning",
+ "domain": "distance higher education",
+ "target": "non-completion (fail or withdraw), from the first 28 days of activity",
+ "n_learners": 6343,
+ "n_ref": 1269,
+ "n_test": 1000,
+ "n_pool": 4074,
+ "feature_density": 1.0,
+ "y_mean": 0.4354,
+ "y_sd": 0.4958,
+ "n_kc": 32
+}

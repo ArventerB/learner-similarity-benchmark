@@ -1,0 +1,18 @@
+{
+ "name": "ednet_randsplit__d20",
+ "source": "EdNet-KT1 (20k sample)",
+ "view": "ednet_randsplit",
+ "d": 20,
+ "task": "future",
+ "domain": "English (TOEIC) practice",
+ "target": "success rate on a random 30 % of the learner's interactions (leaky variant)",
+ "n_learners": 3629,
+ "n_ref": 726,
+ "n_test": 1000,
+ "n_pool": 1903,
+ "feature_density": 0.7477,
+ "y_mean": 0.6371,
+ "y_sd": 0.1152,
+ "n_interactions": 2402200,
+ "n_kc": 1781
+}

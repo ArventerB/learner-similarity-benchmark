@@ -1,0 +1,57 @@
+name,source,view,d,task,domain,target,n_learners,n_ref,n_test,n_pool,feature_density,y_mean,y_sd,n_kc,n_interactions
+assist09__d100,ASSISTments 2009,assist09,100,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,1159,232,371,556,0.2106,0.6252,0.2127,123.0,235136.0
+assist09__d20,ASSISTments 2009,assist09,20,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,1159,232,371,556,0.4669,0.6252,0.2127,123.0,235136.0
+assist09__d50,ASSISTments 2009,assist09,50,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,1159,232,371,556,0.3223,0.6252,0.2127,123.0,235136.0
+assist15__d100,ASSISTments 2015,assist15,100,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,4430,886,1000,2544,0.1169,0.738,0.1558,100.0,417600.0
+assist15__d20,ASSISTments 2015,assist15,20,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,4430,886,1000,2544,0.2187,0.738,0.1558,100.0,417600.0
+assist15__d50,ASSISTments 2015,assist15,50,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,4430,886,1000,2544,0.1748,0.738,0.1558,100.0,417600.0
+assist17__d100,ASSISTments 2017,assist17,100,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,1670,334,534,802,0.3662,0.4085,0.137,411.0,932550.0
+assist17__d20,ASSISTments 2017,assist17,20,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,1670,334,534,802,0.5325,0.4085,0.137,411.0,932550.0
+assist17__d50,ASSISTments 2017,assist17,50,future,middle-school mathematics,success rate on the last 30 % of the learner's interactions,1670,334,534,802,0.4314,0.4085,0.137,411.0,932550.0
+assist17_randsplit__d100,ASSISTments 2017,assist17_randsplit,100,future,middle-school mathematics,success rate on a random 30 % of the learner's interactions (leaky variant),1670,334,534,802,0.4047,0.4007,0.1255,411.0,932550.0
+assist17_randsplit__d20,ASSISTments 2017,assist17_randsplit,20,future,middle-school mathematics,success rate on a random 30 % of the learner's interactions (leaky variant),1670,334,534,802,0.5929,0.4007,0.1255,411.0,932550.0
+assist17_randsplit__d50,ASSISTments 2017,assist17_randsplit,50,future,middle-school mathematics,success rate on a random 30 % of the learner's interactions (leaky variant),1670,334,534,802,0.4826,0.4007,0.1255,411.0,932550.0
+ednet__d100,EdNet-KT1 (20k sample),ednet,100,future,English (TOEIC) practice,success rate on the last 30 % of the learner's interactions,3630,726,1000,1904,0.5786,0.6479,0.1231,1781.0,2402200.0
+ednet__d20,EdNet-KT1 (20k sample),ednet,20,future,English (TOEIC) practice,success rate on the last 30 % of the learner's interactions,3630,726,1000,1904,0.7506,0.6479,0.1231,1781.0,2402200.0
+ednet__d50,EdNet-KT1 (20k sample),ednet,50,future,English (TOEIC) practice,success rate on the last 30 % of the learner's interactions,3630,726,1000,1904,0.6576,0.6479,0.1231,1781.0,2402200.0
+ednet_randsplit__d100,EdNet-KT1 (20k sample),ednet_randsplit,100,future,English (TOEIC) practice,success rate on a random 30 % of the learner's interactions (leaky variant),3629,726,1000,1903,0.5672,0.6371,0.1152,1781.0,2402200.0
+ednet_randsplit__d20,EdNet-KT1 (20k sample),ednet_randsplit,20,future,English (TOEIC) practice,success rate on a random 30 % of the learner's interactions (leaky variant),3629,726,1000,1903,0.7477,0.6371,0.1152,1781.0,2402200.0
+ednet_randsplit__d50,EdNet-KT1 (20k sample),ednet_randsplit,50,future,English (TOEIC) practice,success rate on a random 30 % of the learner's interactions (leaky variant),3629,726,1000,1903,0.6657,0.6371,0.1152,1781.0,2402200.0
+oulad_BBB__d32,OULAD,oulad_BBB,32,warning,distance higher education,"non-completion (fail or withdraw), from the first 28 days of activity",6291,1258,1000,4033,1.0,0.4112,0.4921,32.0,
+oulad_CCC__d32,OULAD,oulad_CCC,32,warning,distance higher education,"non-completion (fail or withdraw), from the first 28 days of activity",3418,684,1000,1734,1.0,0.5176,0.4997,32.0,
+oulad_DDD__d32,OULAD,oulad_DDD,32,warning,distance higher education,"non-completion (fail or withdraw), from the first 28 days of activity",4996,999,1000,2997,1.0,0.4924,0.4999,32.0,
+oulad_EEE__d32,OULAD,oulad_EEE,32,warning,distance higher education,"non-completion (fail or withdraw), from the first 28 days of activity",2508,502,802,1204,1.0,0.3473,0.4761,32.0,
+oulad_FFF__d32,OULAD,oulad_FFF,32,warning,distance higher education,"non-completion (fail or withdraw), from the first 28 days of activity",6343,1269,1000,4074,1.0,0.4354,0.4958,32.0,
+oulad_GGG__d32,OULAD,oulad_GGG,32,warning,distance higher education,"non-completion (fail or withdraw), from the first 28 days of activity",2432,486,778,1168,1.0,0.3791,0.4852,32.0,
+pta_comp_thinking__d100,PTADisc single-course,pta_comp_thinking,100,unseen,computational thinking,mean score on KCs disjoint from the feature KCs,19923,3000,1000,15923,0.2644,0.754,0.1842,477.0,6504414.0
+pta_comp_thinking__d20,PTADisc single-course,pta_comp_thinking,20,unseen,computational thinking,mean score on KCs disjoint from the feature KCs,19923,3000,1000,15923,0.5018,0.754,0.1842,477.0,6504414.0
+pta_comp_thinking__d50,PTADisc single-course,pta_comp_thinking,50,unseen,computational thinking,mean score on KCs disjoint from the feature KCs,19923,3000,1000,15923,0.4059,0.754,0.1842,477.0,6504414.0
+pta_database__d100,PTADisc single-course,pta_database,100,unseen,database technology,mean score on KCs disjoint from the feature KCs,7784,1557,1000,5227,0.1642,0.7604,0.1694,325.0,2363206.0
+pta_database__d20,PTADisc single-course,pta_database,20,unseen,database technology,mean score on KCs disjoint from the feature KCs,7784,1557,1000,5227,0.44,0.7604,0.1694,325.0,2363206.0
+pta_database__d50,PTADisc single-course,pta_database,50,unseen,database technology,mean score on KCs disjoint from the feature KCs,7784,1557,1000,5227,0.2998,0.7604,0.1694,325.0,2363206.0
+pta_linux__d20,PTADisc single-course,pta_linux,20,unseen,Linux systems,mean score on KCs disjoint from the feature KCs,1279,256,409,614,0.4838,0.6678,0.1875,284.0,391434.0
+pta_linux__d50,PTADisc single-course,pta_linux,50,unseen,Linux systems,mean score on KCs disjoint from the feature KCs,1279,256,409,614,0.3017,0.6678,0.1875,284.0,391434.0
+pta_x_c__d100,PTADisc cross-course,pta_x_c,100,transfer,university programming,mean score in the held-out course (c); features from the other four courses,29454,3000,1000,25454,0.4407,0.7338,0.1549,,28711565.0
+pta_x_c__d20,PTADisc cross-course,pta_x_c,20,transfer,university programming,mean score in the held-out course (c); features from the other four courses,29454,3000,1000,25454,0.6747,0.7338,0.1549,,28711565.0
+pta_x_c__d50,PTADisc cross-course,pta_x_c,50,transfer,university programming,mean score in the held-out course (c); features from the other four courses,29454,3000,1000,25454,0.544,0.7338,0.1549,,28711565.0
+pta_x_cpp__d100,PTADisc cross-course,pta_x_cpp,100,transfer,university programming,mean score in the held-out course (cpp); features from the other four courses,29454,3000,1000,25454,0.4725,0.7281,0.1811,,33812368.0
+pta_x_cpp__d20,PTADisc cross-course,pta_x_cpp,20,transfer,university programming,mean score in the held-out course (cpp); features from the other four courses,29454,3000,1000,25454,0.7796,0.7281,0.1811,,33812368.0
+pta_x_cpp__d50,PTADisc cross-course,pta_x_cpp,50,transfer,university programming,mean score in the held-out course (cpp); features from the other four courses,29454,3000,1000,25454,0.5933,0.7281,0.1811,,33812368.0
+pta_x_ds__d100,PTADisc cross-course,pta_x_ds,100,transfer,university programming,mean score in the held-out course (ds); features from the other four courses,29454,3000,1000,25454,0.475,0.7575,0.1792,,32887501.0
+pta_x_ds__d20,PTADisc cross-course,pta_x_ds,20,transfer,university programming,mean score in the held-out course (ds); features from the other four courses,29454,3000,1000,25454,0.8196,0.7575,0.1792,,32887501.0
+pta_x_ds__d50,PTADisc cross-course,pta_x_ds,50,transfer,university programming,mean score in the held-out course (ds); features from the other four courses,29454,3000,1000,25454,0.6376,0.7575,0.1792,,32887501.0
+pta_x_java__d100,PTADisc cross-course,pta_x_java,100,transfer,university programming,mean score in the held-out course (java); features from the other four courses,29454,3000,1000,25454,0.5153,0.754,0.1928,,34739628.0
+pta_x_java__d20,PTADisc cross-course,pta_x_java,20,transfer,university programming,mean score in the held-out course (java); features from the other four courses,29454,3000,1000,25454,0.8196,0.754,0.1928,,34739628.0
+pta_x_java__d50,PTADisc cross-course,pta_x_java,50,transfer,university programming,mean score in the held-out course (java); features from the other four courses,29454,3000,1000,25454,0.6714,0.754,0.1928,,34739628.0
+pta_x_python__d100,PTADisc cross-course,pta_x_python,100,transfer,university programming,mean score in the held-out course (python); features from the other four courses,29454,3000,1000,25454,0.5289,0.7497,0.1977,,34037954.0
+pta_x_python__d20,PTADisc cross-course,pta_x_python,20,transfer,university programming,mean score in the held-out course (python); features from the other four courses,29454,3000,1000,25454,0.8196,0.7497,0.1977,,34037954.0
+pta_x_python__d50,PTADisc cross-course,pta_x_python,50,transfer,university programming,mean score in the held-out course (python); features from the other four courses,29454,3000,1000,25454,0.6739,0.7497,0.1977,,34037954.0
+slepemapy__d100,Slepemapy geography,slepemapy,100,future,geography facts,success rate on the last 30 % of the learner's interactions,31199,3000,1000,27199,0.2655,0.7757,0.155,1458.0,8590679.0
+slepemapy__d20,Slepemapy geography,slepemapy,20,future,geography facts,success rate on the last 30 % of the learner's interactions,31199,3000,1000,27199,0.3849,0.7757,0.155,1458.0,8590679.0
+slepemapy__d50,Slepemapy geography,slepemapy,50,future,geography facts,success rate on the last 30 % of the learner's interactions,31199,3000,1000,27199,0.3343,0.7757,0.155,1458.0,8590679.0
+xes3g5m__d100,XES3G5M,xes3g5m,100,future,primary mathematics,success rate on the last 30 % of the learner's interactions,18066,3000,1000,14066,0.5174,0.7986,0.1406,865.0,5492238.0
+xes3g5m__d20,XES3G5M,xes3g5m,20,future,primary mathematics,success rate on the last 30 % of the learner's interactions,18066,3000,1000,14066,0.755,0.7986,0.1406,865.0,5492238.0
+xes3g5m__d50,XES3G5M,xes3g5m,50,future,primary mathematics,success rate on the last 30 % of the learner's interactions,18066,3000,1000,14066,0.6295,0.7986,0.1406,865.0,5492238.0
+xes3g5m_randsplit__d100,XES3G5M,xes3g5m_randsplit,100,future,primary mathematics,success rate on a random 30 % of the learner's interactions (leaky variant),18066,3000,1000,14066,0.5693,0.7868,0.1336,865.0,5492238.0
+xes3g5m_randsplit__d20,XES3G5M,xes3g5m_randsplit,20,future,primary mathematics,success rate on a random 30 % of the learner's interactions (leaky variant),18066,3000,1000,14066,0.7862,0.7868,0.1336,865.0,5492238.0
+xes3g5m_randsplit__d50,XES3G5M,xes3g5m_randsplit,50,future,primary mathematics,success rate on a random 30 % of the learner's interactions (leaky variant),18066,3000,1000,14066,0.6823,0.7868,0.1336,865.0,5492238.0

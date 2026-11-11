@@ -1,0 +1,14 @@
+Depth-1 rule fitted on all cells
+if density < 0.78:
+    use Cosine  [143 cells]
+else:
+    use PCA-80% projection  [40 cells]
+
+Depth-2 rule fitted on all cells
+if density < 0.78:
+    use Cosine  [143 cells]
+else:
+    if erank_ratio < 0.344:
+        use Pearson  [24 cells]
+    else:
+        use PCA-80% projection  [16 cells]

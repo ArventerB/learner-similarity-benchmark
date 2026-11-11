@@ -1,0 +1,17 @@
+{
+ "name": "pta_x_ds__d20",
+ "source": "PTADisc cross-course",
+ "view": "pta_x_ds",
+ "d": 20,
+ "task": "transfer",
+ "domain": "university programming",
+ "target": "mean score in the held-out course (ds); features from the other four courses",
+ "n_learners": 29454,
+ "n_ref": 3000,
+ "n_test": 1000,
+ "n_pool": 25454,
+ "feature_density": 0.8196,
+ "y_mean": 0.7575,
+ "y_sd": 0.1792,
+ "n_interactions": 32887501
+}

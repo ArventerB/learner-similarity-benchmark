@@ -1,0 +1,15 @@
+# raw data are downloaded by src/lsb/download.py and must not be redistributed
+data/raw/*
+!data/raw/MANIFEST.json
+data/processed/*.npz
+data/processed/kc_outcomes/
+data/processed/oulad_table.parquet
+.venv/
+__pycache__/
+logs/
+results_check/
+*.part
+tools/docx_export/node_modules/
+~$*
+.DS_Store
+Thumbs.db

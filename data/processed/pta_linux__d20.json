@@ -1,0 +1,18 @@
+{
+ "name": "pta_linux__d20",
+ "source": "PTADisc single-course",
+ "view": "pta_linux",
+ "d": 20,
+ "task": "unseen",
+ "domain": "Linux systems",
+ "target": "mean score on KCs disjoint from the feature KCs",
+ "n_learners": 1279,
+ "n_ref": 256,
+ "n_test": 409,
+ "n_pool": 614,
+ "feature_density": 0.4838,
+ "y_mean": 0.6678,
+ "y_sd": 0.1875,
+ "n_interactions": 391434,
+ "n_kc": 284
+}

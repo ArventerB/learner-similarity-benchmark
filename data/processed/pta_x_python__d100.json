@@ -1,0 +1,17 @@
+{
+ "name": "pta_x_python__d100",
+ "source": "PTADisc cross-course",
+ "view": "pta_x_python",
+ "d": 100,
+ "task": "transfer",
+ "domain": "university programming",
+ "target": "mean score in the held-out course (python); features from the other four courses",
+ "n_learners": 29454,
+ "n_ref": 3000,
+ "n_test": 1000,
+ "n_pool": 25454,
+ "feature_density": 0.5289,
+ "y_mean": 0.7497,
+ "y_sd": 0.1977,
+ "n_interactions": 34037954
+}

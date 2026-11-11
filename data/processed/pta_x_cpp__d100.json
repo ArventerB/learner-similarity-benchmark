@@ -1,0 +1,17 @@
+{
+ "name": "pta_x_cpp__d100",
+ "source": "PTADisc cross-course",
+ "view": "pta_x_cpp",
+ "d": 100,
+ "task": "transfer",
+ "domain": "university programming",
+ "target": "mean score in the held-out course (cpp); features from the other four courses",
+ "n_learners": 29454,
+ "n_ref": 3000,
+ "n_test": 1000,
+ "n_pool": 25454,
+ "feature_density": 0.4725,
+ "y_mean": 0.7281,
+ "y_sd": 0.1811,
+ "n_interactions": 33812368
+}

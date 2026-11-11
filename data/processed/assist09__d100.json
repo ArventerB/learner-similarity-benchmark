@@ -1,0 +1,18 @@
+{
+ "name": "assist09__d100",
+ "source": "ASSISTments 2009",
+ "view": "assist09",
+ "d": 100,
+ "task": "future",
+ "domain": "middle-school mathematics",
+ "target": "success rate on the last 30 % of the learner's interactions",
+ "n_learners": 1159,
+ "n_ref": 232,
+ "n_test": 371,
+ "n_pool": 556,
+ "feature_density": 0.2106,
+ "y_mean": 0.6252,
+ "y_sd": 0.2127,
+ "n_interactions": 235136,
+ "n_kc": 123
+}

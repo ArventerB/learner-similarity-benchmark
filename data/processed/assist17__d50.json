@@ -1,0 +1,18 @@
+{
+ "name": "assist17__d50",
+ "source": "ASSISTments 2017",
+ "view": "assist17",
+ "d": 50,
+ "task": "future",
+ "domain": "middle-school mathematics",
+ "target": "success rate on the last 30 % of the learner's interactions",
+ "n_learners": 1670,
+ "n_ref": 334,
+ "n_test": 534,
+ "n_pool": 802,
+ "feature_density": 0.4314,
+ "y_mean": 0.4085,
+ "y_sd": 0.137,
+ "n_interactions": 932550,
+ "n_kc": 411
+}
