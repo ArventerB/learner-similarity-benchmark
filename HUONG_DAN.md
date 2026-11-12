@@ -152,6 +152,3 @@ Kết quả không ủng hộ giả thuyết ban đầu rằng Mahalanobis hoặ
 
 Số liệu đầy đủ nằm trong `manuscript/paper.md` và `results/tables/`.
 
-## 8. Việc tác giả cần tự làm trước khi nộp
-
-Xem mục "Việc còn lại" ở cuối tệp `manuscript/CHECKLIST_NOP_BAI.md`.
